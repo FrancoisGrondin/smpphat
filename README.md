@@ -1,5 +1,18 @@
 # SMP-PHAT: Lightweight DoA Estimation by Merging Microphone Pairs
 
+## Citing this work
+
+Please consider citing the corresponding paper if you are using this code:
+
+```
+@article{grondin2022smp,
+    title = {{SMP-PHAT}: Lightweight {DoA} estimation by mergin microphone pairs},
+    author = {Grondin, Fran\c{c}ois and Maheux, Marc-Antoine and Lauzon, Jean-Samuel and Vincent, Jonathan and Michaud, Fran\c{c}ois},
+    journal = {arXiv preprint: arXiv:2203.14409},
+    year = {2022}
+}
+```
+
 ## Installation
 
 Make sure FFTW is installed:
